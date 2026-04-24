@@ -6,7 +6,7 @@ Este proyecto consiste en un ecosistema de marketing automatizado diseñado para
 
 * **Captura y Segmentación:** Recolección de datos mediante Google Forms y clasificación automática de perfiles (Gaming vs. Oficina/Productividad).
 * **Email Marketing Dinámico:** Envío automático de correos en formato HTML con contenido y catálogos diferenciados según el interés del cliente.
-* **Lead Nurturing (Seguimiento):** Sistema de follow-up programado para contactar a prospectos que no han concretado la compra, optimizando la tasa de conversión.
+
 * **Integración con WhatsApp:** Botones de acción directa para facilitar el cierre de ventas por mensajería instantánea.
 
 ## 🛠️ Tecnologías Utilizadas
