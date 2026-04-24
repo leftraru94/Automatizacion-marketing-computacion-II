@@ -4,7 +4,7 @@ Este proyecto consiste en un ecosistema de marketing automatizado diseñado para
 
 ## 🚀 Funcionalidades Principales
 
-* **Captura y Segmentación:** Recolección de datos mediante Google Forms y clasificación automática de perfiles (Gaming vs. Oficina/Productividad).
+* **Captura y Segmentación:** Recolección de datos mediante Google Forms y clasificación automática de perfiles (Gaming vs. Oficina/Productividad). Powert Point
 * **Email Marketing Dinámico:** Envío automático de correos en formato HTML con contenido y catálogos diferenciados según el interés del cliente.
 
 * **Integración con WhatsApp:** Botones de acción directa para facilitar el cierre de ventas por mensajería instantánea.
